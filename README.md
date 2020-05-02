@@ -7,6 +7,7 @@ Discover live hosts in subnet and scan for open ports
 - 1. change the desire subnet value at line 13
 - 2. change the desire ports to be scanned in the array at line 27
 #### requirement: 
+- ping
 - nc [v1.10-41.1+b1]
 
 ![Output](https://raw.githubusercontent.com/faisalfs10x/liveHostPortScan/master/live.png)
