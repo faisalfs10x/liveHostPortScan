@@ -10,4 +10,5 @@ Discover live hosts in subnet and scan for open ports
 - ping
 - nc [v1.10-41.1+b1], netcat-traditional_1.10-41.1+b1_amd64.deb or apt-get install netcat-traditional
 
+##### tested on Kali Linux 2020.2
 ![Output](https://raw.githubusercontent.com/faisalfs10x/liveHostPortScan/master/live.png)
