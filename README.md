@@ -1,5 +1,5 @@
 # liveHostPortScan
-discover live hosts in subnet and scan for open ports
+Discover live hosts in subnet and scan for open ports
 
 
 #### faisal May 2, 2020
